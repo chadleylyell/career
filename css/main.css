@@ -1,0 +1,51 @@
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 75px;
+	font-size: 20px;
+}
+
+.sel-nav {
+	color: #551A8B;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.nav-bar {
+	background-color: lightgrey;
+}
+
+#myName {
+	color: #551A8B;
+}
+
+.careerHeader {
+	text-decoration: underline;
+}
+.row {
+	margin: 25px 0;
+}
+
+h3 {
+	margin: 0;
+}
+
+h5 {
+	display: inline;
+
+}
+
+.foot-span {
+	color: #551A8B;
+	font-weight: bold;
+}
+
+.footer-div {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-top: 1rem;
+	background-color: lightgrey;
+	text-align: center;
+}
